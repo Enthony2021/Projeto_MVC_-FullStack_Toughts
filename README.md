@@ -1,9 +1,9 @@
-# Projeto_MVC_-FullStack_Toughts
+# Projeto_MVC_Toughts
 
 Projeto completíssimo! desenvolvido juntamente com o Prof° Matheus Battist no curso de "Node.js do Zero a Maestria com diversos Projetos".
 
 ## O que temos aqui:
-Um projeto FullStack, com CRUD e desenvolvido na arquitetura MVC.
+Um projeto com CRUD, desenvolvido na arquitetura MVC.
 
 ## Suas funcionalidades são: 
 * Cadastro de Usuário;
