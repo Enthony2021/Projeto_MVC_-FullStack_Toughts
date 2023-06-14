@@ -79,3 +79,5 @@ Os dados para a connexão com o DB é:
   sequelize 
 </pre>
 
+<p>Confira algumas imagens Abaixo:</p>
+
