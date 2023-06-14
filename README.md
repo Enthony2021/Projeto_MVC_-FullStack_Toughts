@@ -38,7 +38,21 @@ Os dados para a connexão com o DB é:
 ><p>Modifique-os conforme suas configurações MySQL no arquivo "/db/conn.js".</p>
 
 ## Rotas da Aplicação:
+### Rotas do usuário (auth):
+<h5>/login -> GET</h5>
+<h5>/register -> GET</h5>
+<h5>/logout -> GET</h5>
+<h5>/login -> POST</h5>
+<h5>/Register -> POST</h5>
 
+### Rotas de pensamento (toughts):
+<h5>/toughts/ -> GET</h5>
+<h5>/toughts/add -> GET</h5>
+<h5>/toughts/edit:id -> GET</h5>
+<h5>/toughts/dashboard -> GET</h5>
+<h5>/toughts/add -> POST</h5>
+<h5>/toughts/edit -> POST</h5>
+<h5>/toughts/remove -> POST</h5>
 
 ## Estrutura de Diretórios:
 <pre>
