@@ -34,8 +34,11 @@ Obs: Não criei o arquivo .env para setar os dados sensiveis do banco de dados, 
 Os dados para a connexão com o DB é:
 ><p>schema: toughts</p>
 ><p>usuário: root</p>
-><p>senha: 123</p>
+><p>senha: '' (sem senha)</p> 
 ><p>Modifique-os conforme suas configurações MySQL no arquivo "/db/conn.js".</p>
+
+## Rotas da Aplicação:
+
 
 ## Estrutura de Diretórios:
 <pre>
@@ -79,5 +82,18 @@ Os dados para a connexão com o DB é:
   sequelize 
 </pre>
 
-<p>Confira algumas imagens Abaixo:</p>
+<p>Confira algumas imagens abaixo:</p>
+
+<img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/toughts1.png"></img>
+<p>---</p>
+<img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/toughts2.png"></img>
+<p>---</p>
+<img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/toughts3.png"></img>
+<p>---</p>
+<img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/toughts4.png"></img>
+<p>---</p>
+
+Para sugestões, críticas e melhoramentos deste projeto, por favor entrar em contato comigo através dos links no meu perfil.
+Enthony Stevie
+
 
