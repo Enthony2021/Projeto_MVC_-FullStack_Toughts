@@ -34,7 +34,7 @@ Obs: Não criei o arquivo .env para setar os dados sensiveis do banco de dados, 
 Os dados para a connexão com o DB é:
 ><p>schema: toughts</p>
 ><p>usuário: root</p>
-><p>senha: Esso1346*</p>
+><p>senha: 123</p>
 ><p>Modifique-os conforme suas configurações MySQL no arquivo "/db/conn.js".</p>
 
 ## Estrutura de Diretórios:
