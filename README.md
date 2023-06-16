@@ -1,6 +1,6 @@
 # Projeto_MVC_Toughts
 
-Projeto Monolito (arquitetura MVC) construida no Curso de <a href="https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/" target="_blank">Node.js do Zero a Maestria com diversos Projetos</a> pela Udemy Academy para aplicar os conhecimentos em Express, Sequelize, MVC e CRUD.
+Projeto Monolito (arquitetura MVC) construida no Curso de <a href="https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/" target="_blank">Node.js do Zero a Maestria com diversos Projetos</a> pela Udemy Academy para aplicar os conhecimentos em Express, Sequelize, MVC.
 Totalmente Responsiva (Desktop e Mobile).
 
 ## Funções e recursos da Aplicação: 
